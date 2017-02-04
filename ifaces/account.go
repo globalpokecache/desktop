@@ -1,7 +1,7 @@
 package ifaces
 
 import (
-	"github.com/muxgo/desktop/public/models"
+	"github.com/globalpokecache/desktop/public/models"
 )
 
 type AccountControl interface {

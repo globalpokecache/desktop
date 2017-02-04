@@ -1,7 +1,7 @@
 package example
 
 import (
-	"github.com/muxgo/desktop/public/ifaces"
+	"github.com/globalpokecache/desktop/public/ifaces"
 )
 
 func (m *Module) API(c ifaces.ModuleContext) {

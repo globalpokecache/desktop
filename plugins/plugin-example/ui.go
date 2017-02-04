@@ -1,8 +1,8 @@
 package example
 
 import (
-	"github.com/muxgo/desktop/public/ifaces"
-	"github.com/muxgo/desktop/public/models"
+	"github.com/globalpokecache/desktop/public/ifaces"
+	"github.com/globalpokecache/desktop/public/models"
 	"github.com/therecipe/qt/core"
 	"github.com/therecipe/qt/widgets"
 )

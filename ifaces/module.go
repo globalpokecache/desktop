@@ -2,7 +2,7 @@ package ifaces
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/muxgo/desktop/public/models"
+	"github.com/globalpokecache/desktop/public/models"
 	"github.com/therecipe/qt/widgets"
 )
 
