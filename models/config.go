@@ -9,5 +9,7 @@ type Config struct {
 	Datastore  string `yaml:"datastore"`
 	ServerMode bool   `yaml:"server_mode"`
 	LogLevel   string `yaml:"log_level"`
+	WebHook    string `yaml:"webhook"`
+	LogToFile  bool   `yaml:"file_log"`
 	HTTPConfig `yaml:"http"`
 }

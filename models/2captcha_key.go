@@ -1,5 +1,5 @@
 package models
 
-type CaptchaKey struct {
+type TwoCaptchaKey struct {
 	Key string
 }
